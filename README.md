@@ -59,7 +59,7 @@ Configure new Node and add private key in jenkins credentials
    #!/bin/bash
    echo "_______________________________"
    echo "|                             |"
-   echo "|Welcome to Tejas tech Demo   |"
+   echo "|Welcome to Jenkins Demo   |"
    echo "|           _nnnn_            |"
    echo "|          dGGGGMMb           |"
    echo "|         @p~qp~~qMb          |"
